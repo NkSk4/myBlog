@@ -3,5 +3,9 @@
 __pycache__
 myvenv
 db.sqlite3
-/static
+/staticeSomonl262
+
 .DS_Store
+
+
+pa_autoconfigure_django.py https://github.com/NkSk4/myBlog.git
